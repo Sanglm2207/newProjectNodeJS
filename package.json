@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot to help users with gathering information.",
+  "main": "bot.js",
+  "scripts": { "dev": "nodemon bot.js" },
+  "repository": { "type": "git", "url": "https://github.com/tubbyyyy/discord-bot.git" },
+  "homepage": "https://github.com/tubbyyyy/discord-bot#readme",
+  "author": {
+    "name": "Gurvinder Singh",
+    "email": "gs467@njit.edu",
+    "url": "https://github.com/tubbyyyy"},
+  "license": "MIT",
+  "engines": {
+    "node": ">= 6.11.3",
+    "npm": ">= 6.4.1"},
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "nodemon": "^1.18.5"}
+}
